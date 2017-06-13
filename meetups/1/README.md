@@ -6,6 +6,12 @@ Event link: https://www.meetup.com/Western-Greece-Software-Development-Meetup/ev
 
 The following are topics that will be discussed and some proposals
 
+### Introduction
+
+Present ourselves. Whoever wants can present themselves in anyway they like
+(interests, expectations, where they come from, interest in organizing a next
+meetup etc). Something like 3 minutes per person should be enough.
+
 ### Location
 
 - Criteria for selection
