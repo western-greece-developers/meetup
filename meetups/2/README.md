@@ -5,9 +5,9 @@
 - Tools/Processes/Best practices for remote development teams (Marios)
 - Remote job hunting guidelines (Dimitris)
 - Pros and cons of remote working (any one who has worked or is working remotely can present) (Marios, other, open discussion?)
-- Blockchain (Marios)
-- Serverless/IPFS (Marios)
-- Clean code apects (Marios)
+- Blockchain: What is blockchain? How is it structured? How it is used in bitcoin mining? (Marios)
+- Serverless/IPFS: What is Serverless? Couple of Examples. Inter Planetary File System [case study]. (Marios)
+- Clean code principles: What Is Clean Code? How can I write clean and maitainable code? (Marios)
 - How to destroy a startup (Pantelis)
   Me and others (many as I understood from the meeting) that had the experience of a failed start-up can present the problem faced and the pitfalls faced during this period
 - Software product management (Pantelis)
