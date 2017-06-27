@@ -9,8 +9,11 @@
 - Serverless/IPFS (Marios)
 - Clean code apects (Marios)
 - How to destroy a startup (Pantelis)
+  Me and others (many as I understood from the meeting) that had the experience of a failed start-up can present the problem faced and the pitfalls faced during this period
 - Software product management (Pantelis)
+  Again this presentation I was thinking to be done not just from me but I am interested to hear which practices have worked best to other teams and which don't. 
 - Medical IT (Pantelis)
+  Being quite a few years in medical software industry I can prepare a small presentation regarding problem faced (e.g. CE and FDA regarding what your software is characterized and the tendencies of the industry regarding software needs)
 - Git for everyday work
   Git introduction, tips and tricks, best practices
 - TDD 101 and applications in Drupal/Wordpress/whatever
