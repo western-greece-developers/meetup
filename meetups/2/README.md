@@ -6,8 +6,10 @@ Where: POS coworking space (Dimitriou Gounari 69, Patra)
 ## Presentations
 
 - Docker 101 - Dimitris Karakasilis [Technical, Containerization]
+
   Docker basics and use cases. It won't be a workshop so no need for a laptop
   this time.
+
 - Pros and cons of remote working - Marios Karagiannopoulos [Professional guidance, Remote working]
 
 ## Open discussion
