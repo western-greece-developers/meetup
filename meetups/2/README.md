@@ -1,10 +1,27 @@
 # Meetup #2
 
-# Presentations
+When: 15th of July 2017, 11:00am
+Where: POS coworking space (Dimitriou Gounari 69, Patra)
+
+## Presentations
+
+- Docker 101 - Dimitris Karakasilis [Technical, Containerization]
+  Docker basics and use cases. It won't be a workshop so no need for a laptop
+  this time.
+- Pros and cons of remote working - Marios Karagiannopoulos [Professional guidance, Remote working]
+
+## Open discussion
+
+- Exchange experience in remote working.
+- Open discussion
+- Decide when the next meetup date should take place.
+
+## Beers
+
+## TODO: Move the rest of the presentation topics below to the next meetup
 
 - Tools/Processes/Best practices for remote development teams (Marios)
 - Remote job hunting guidelines (Dimitris)
-- Pros and cons of remote working (any one who has worked or is working remotely can present) (Marios, other, open discussion?)
 - Blockchain: What is blockchain? How is it structured? How it is used in bitcoin mining? (Marios)
 - Serverless/IPFS: What is Serverless? Couple of Examples. Inter Planetary File System [case study]. (Marios)
 - Clean code principles: What Is Clean Code? How can I write clean and maitainable code? (Marios)
