@@ -10,7 +10,7 @@ Where: POS coworking space (Dimitriou Gounari 69, Patra)
   Docker basics and use cases. It won't be a workshop so no need for a laptop
   this time.
 
-- Pros and cons of remote working - Marios Karagiannopoulos [Professional guidance, Remote working]
+- Pros and cons of remote working/Tools/Processes/Best practices - Marios Karagiannopoulos [Professional guidance, Remote working]
 
 ## Open discussion
 
@@ -22,8 +22,8 @@ Where: POS coworking space (Dimitriou Gounari 69, Patra)
 
 ## TODO: Move the rest of the presentation topics below to the next meetup
 
-- Tools/Processes/Best practices for remote development teams (Marios)
 - Remote job hunting guidelines (Dimitris)
+- How to speedup a backend implementation with Spring Roo in less than 10 minutes (Marios)
 - Blockchain: What is blockchain? How is it structured? How it is used in bitcoin mining? (Marios)
 - Serverless/IPFS: What is Serverless? Couple of Examples. Inter Planetary File System [case study]. (Marios)
 - Clean code principles: What Is Clean Code? How can I write clean and maitainable code? (Marios)
