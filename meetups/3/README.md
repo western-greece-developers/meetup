@@ -11,6 +11,7 @@
   Again this presentation I was thinking to be done not just from me but I am interested to hear which practices have worked best to other teams and which don't. 
 - Medical IT (Pantelis)
   Being quite a few years in medical software industry I can prepare a small presentation regarding problem faced (e.g. CE and FDA regarding what your software is characterized and the tendencies of the industry regarding software needs)
+- Parallel and concurrent programming in Python: An introduction to `concurrent.futures` module (Christos)  
 - Git for everyday work
   Git introduction, tips and tricks, best practices
 - TDD 101 and applications in Drupal/Wordpress/whatever
