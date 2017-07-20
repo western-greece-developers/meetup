@@ -29,3 +29,5 @@
   How to replace your IDE with Vim and why
 - Static site generators [Workshop]
   When to use them, how and deploy options.
+- Introduction to Golang
+- Golang workshop. From Ruby gems to Go apps.
