@@ -1,3 +1,9 @@
+# Meetup #3
+
+When: 30th of September 2017, 11:00am
+Where: Probably POS coworking space [TBD]
+What: Workshop on containers, docker and container orchestration
+
 # Presentation topics (to choose from)
 
 - Remote job hunting guidelines (Dimitris)
