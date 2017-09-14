@@ -31,3 +31,4 @@
   When to use them, how and deploy options.
 - Introduction to Golang
 - Golang workshop. From Ruby gems to Go apps.
+- Cloudfoundry for developers (might do a "Cloudfoundry for admins" at some point)
