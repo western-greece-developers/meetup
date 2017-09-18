@@ -7,9 +7,19 @@ Who: Organizers of the workshop: Spiros Oikonomakis, Marios Karagiannopoulos, Di
 
 ## Schedule
 
-- Series 1: Using docker for development (11:00 - 13:00)
+- Part 1 (11:00 - 13:00) :
+  - Create a basic development environment for Rails
+  - Add SQL database
+  - Add Redis database
+  - Add background workers
+
 - Lunch break (13:00 - 14:00) (TODO: Arrange free lunch or come up with alternative)
-- Series 2: Using docker on production (14:00 - 16:00)
+
+- Part 2 (14:00 - 16:00):
+  - Containerize your test suite
+  - Automate it (let it run whenever a change is made)
+  - Share your environment with the rest of your team (version your images)
+  - Improvisation. Containerize your own application.
 
 ## Preparation for the workshop
 

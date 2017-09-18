@@ -23,7 +23,7 @@ First requirement: Ruby
 
 ```
 $ git checkout 3ac6184
-$ docker build -t wgsdg .
+$ docker build -t wgsdg development/.
 $ docker run --rm -it wgsgd
 $ docker run --rm -it wgsgd irb
 ```
@@ -38,7 +38,7 @@ Add bundler to your Dockerfile and rebuild the image:
 
 https://github.com/jimmykarily/wgsdg_meetup_3_sample_app/commit/5c9053456360df772a783b552fd245cac7ab4edf#diff-c92a9f5278c2a9463788c4ddf11d871c
 
-Tip: `docker build -t wgsdg .`
+Tip: `docker build -t wgsdg development/.`
 
 Setup Rails:
 
@@ -57,5 +57,18 @@ TIP: You can skip this section with:
 
 ```
 $ git checkout 5c90534
-$ docker build -t wgsdg .
+$ docker build -t wgsdg development/.
+```
+
+## Add PostgreSQL
+
+- Add PostgreSQL dependency in your Dockefile and rebuild the image.
+- Add a model to get stored in the database.
+- Add PostgreSQL in your docker-compose.yml.
+
+TIP: Skip this section with:
+
+```
+$ git checkout fa89965
+$ docker build -t wgsdg development/.
 ```
