@@ -72,3 +72,16 @@ TIP: Skip this section with:
 $ git checkout fa89965
 $ docker build -t wgsdg development/.
 ```
+
+## Add Redis
+
+- Add redis gem
+- Add Redis in docker-compose file
+- Add methods to use redis
+
+TIP: Skip the section with:
+
+```
+$ git checkout 8d93c9c
+$ docker build -t wgsdg development/.
+```
