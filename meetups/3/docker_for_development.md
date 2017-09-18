@@ -85,3 +85,18 @@ TIP: Skip the section with:
 $ git checkout 8d93c9c
 $ docker build -t wgsdg development/.
 ```
+
+## Add background workers (Sidekiq)
+
+- Add sidekiq gem
+- Add worker
+- Add background workers container
+- Add jobs
+- Check result
+
+TIP: Skip this section with:
+
+```
+$ git checkout f5958c8
+$ pushd development && docker-compose up -d && popd
+```
