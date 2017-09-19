@@ -100,3 +100,29 @@ TIP: Skip this section with:
 $ git checkout f5958c8
 $ pushd development && docker-compose up -d && popd
 ```
+
+## Containerize your test suite
+
+```
+$ git checkout a618e71
+$ ./development/dex rails test
+```
+
+## Make it automatic
+
+```
+$ git checkout f50aa28
+$ ./development/dex bundle
+$ pushd development && docker-compose up -d && popd
+```
+
+## Share your environment with your team
+
+- Use the commit id as the image tag and push it
+- Benefits:
+  - Easier QA
+  - Save time by using a local registry (people will just pull the images instead of building them)
+
+## Improvisation: Containerize your own application
+
+Ask for help if you need it :)
