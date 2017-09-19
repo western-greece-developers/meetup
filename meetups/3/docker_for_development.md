@@ -24,11 +24,18 @@ First requirement: Ruby
 ```
 $ git checkout 3ac6184
 $ docker build -t wgsdg development/.
-$ docker run --rm -it wgsgd
-$ docker run --rm -it wgsgd irb
+$ docker run --rm -it wgsdg
+```
+
+or run irb inside a container to test:
+
+```
+$ docker run --rm -it wgsdg irb
 ```
 
 ## Setting up Rails
+
+# TODO: Quick Intro to Rails
 
 Requirements:
   - Vanilla Rails in place
@@ -48,10 +55,10 @@ container> gem install rails
 container> rails new -s -B .
 container> bundle install --path=/usr/src/app/bundle_cache/
 container> exit
-$ docker-compose up -d
+$ pushd development && docker-compose up -d && popd
 ```
 
-Open `http://localhost:3000/` on your browser
+Open `http://localhost:3000/` on your browser (or curl it)
 
 TIP: You can skip this section with:
 
@@ -105,7 +112,7 @@ $ pushd development && docker-compose up -d && popd
 
 ```
 $ git checkout a618e71
-$ ./development/dex rails test
+$ ./development/dex bundle exec rails test
 ```
 
 ## Make it automatic
