@@ -16,6 +16,11 @@ During the installation process, make sure you check the following:
 In order to use the Docker machine, you just have to open the "Docker Quickstart Terminal" application. It provides a shell and piggybacks on Virtualbox, creating a
 headless Virtual Machine with Docker installed under the hood. Don't worry, you can manage Docker like it's installed natively on Windows by using the docker machine terminal.
 
+*Important: Development on the host system*: Before executing the machine (or as long as it is in a stopped state) do the following:
+1. Create a directory for development in Windows
+2. Go to Virtualbox, right-click on the VM and select Settings. Add a shared folder with host directory the one that you created at step #1 and guest directory: `/home/docker/workspace`
+3. Save your changes and then start the "Docker Quickstart Terminal" application
+
 ### Examples
 
 *Creating a container*

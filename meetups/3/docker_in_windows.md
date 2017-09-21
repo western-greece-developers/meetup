@@ -3,10 +3,9 @@
 This readme file describes the various alternatives that one can follow to have a working Docker environment if their host system is Windows.
 
 ## 1. Using Docker Machine (recommended)
-Prerequisites: More time compared to option #2
-When to follow: When you want to directly develop on the host and be able to seamlessly inject your code in the new images you create
+When to follow: When you want to directly develop on the your Windows host 
 
-Please check our extensive guide [here](docker_machine_windows/README.md)
+Please check our extensive guide [here](docker_machine_windows.md)
 
 ## 2. Using our preconfigured VM export
 Prerequisite: Virtualbox
