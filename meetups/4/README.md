@@ -32,3 +32,6 @@
 - Introduction to Golang
 - Golang workshop. From Ruby gems to Go apps.
 - Cloudfoundry for developers (might do a "Cloudfoundry for admins" at some point)
+- HTTP request lifecycle, from user to the server and back (Marios)
+- Interview walkthrough. Prepare for the precooked interviews out there.
+- Android introduction (Theodoros Dakouris - zarkopafilis).
