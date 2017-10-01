@@ -25,10 +25,10 @@ Who: Organizers of the workshop: Spiros Oikonomakis, Marios Karagiannopoulos, Di
 
 To be able to focus on the important stuff, it is necessary that all participants do some preparation before the workshop. This includes downloading all the needed tools, setting them up etc. Here are the things you should do before you come to the workshop:
 
-- Having attended the [introduction to docker of the previous meetup](https://github.com/western-greece-developers/meetup/blob/master/meetups/2/Docker%20101.pdf) or read the (TODO: Pending link to docker introduction)
+- Having attended the [introduction to docker of the previous meetup](https://github.com/western-greece-developers/meetup/blob/master/meetups/2/Docker%20101.pdf) or some other docker introduction.
 - Laptop with wireless card (no access to cables can be guaranteed)
 - SSH Client for your OS
-- Installed and working on your laptop: git, docker, docker-compose (TODO: add more tools here)
+- Installed and working on your laptop: git, docker, docker-compose
 - A text editor or an IDE installed on your laptop
 
 Nice to have:
@@ -36,4 +36,13 @@ Nice to have:
 - Access to our Slack channel (Register here: https://wgsdg.herokuapp.com/)
   We might need to share links or other information during the workshop. It might be easier if everyone is on the same chat.
 
-## Results (TODO: Write section after workshop is done)
+## Results
+
+Around 17 people attended the workshop. We managed to mostly stick to the schedule, people managed to follow the guide (for the most part).
+
+Improvements for the future:
+
+- Keep the irrelevant stuff simpler (too much Rails)
+- Create a VM that people can use and share it before the workshop.
+- Better support different OS' (e.g. Windows, Mac)
+- Arrange for food.
