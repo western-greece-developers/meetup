@@ -1,7 +1,7 @@
 # Meetup #3
 
 When: 30th of September 2017, 11:00am
-Where: Probably POS coworking space [TBD]
+Where: POS coworking space, Patras
 What: Workshop on containers, docker and container orchestration
 Who: Organizers of the workshop: Spiros Oikonomakis, Marios Karagiannopoulos, Dimitris Karakasilis (TODO: Want to help? Contact one of the people on this list)
 
