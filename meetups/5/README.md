@@ -2,7 +2,7 @@
 
 - Remote job hunting guidelines (Dimitris)
 - How to speedup a backend implementation with Spring Roo in less than 10 minutes (Marios)
-- Blockchain: What is blockchain? How is it structured? How it is used in bitcoin mining? (Marios)
+- Blockchain: What is blockchain? How is it structured? How it is used in bitcoin mining? A blockchain in 200 lines of code [demo: https://github.com/lhartikk/naivechain](Marios)
 - Serverless/IPFS: What is Serverless? Couple of Examples. Inter Planetary File System [case study]. (Marios)
 - Clean code principles: What Is Clean Code? How can I write clean and maitainable code? (Marios)
 - How to destroy a startup (Pantelis)
@@ -17,7 +17,6 @@
 - TDD 101 and applications in Drupal/Wordpress/whatever
   Test Driven Development introduction, some common applications and some less
   common.
-- [Meetup #3] Software development with containers (dev env)
   Setting up a development environment with one command using docker containers
 - Software deployment with containers (prod env) (Needs more preparation time)
   Deploying software to production using docker containers
@@ -32,6 +31,11 @@
 - Introduction to Golang
 - Golang workshop. From Ruby gems to Go apps.
 - Cloudfoundry for developers (might do a "Cloudfoundry for admins" at some point)
-- [Meetup #4] HTTP request lifecycle, from user to the server and back (Marios)
 - Interview walkthrough. Prepare for the precooked interviews out there.
-- [Meetup #4] Android introduction (Theodoros Dakouris - zarkopafilis).
+- Working with a pet project - From the architecture to the real implementation and delivery to the end customers
+
+- [Meetup #2] Docker 101 - Dimitris Karakasilis [Technical, Containerization]
+- [Meetup #2] Pros and cons of remote working/Tools/Processes/Best practices - Marios Karagiannopoulos [Professional guidance, Remote working]
+- [Meetup #3] Software development with containers (dev env) - Workshop - Dimitris Karakasilis
+- [Meetup #4] HTTP request lifecycle, from user to the server and back - Marios Karagiannopoulos
+- [Meetup #4] Android Best Practices - Theodoros Dakouris - zarkopafilis.
