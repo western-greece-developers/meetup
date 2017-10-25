@@ -33,6 +33,7 @@
 - Cloudfoundry for developers (might do a "Cloudfoundry for admins" at some point)
 - Interview walkthrough. Prepare for the precooked interviews out there.
 - Working with a pet project - From the architecture to the real implementation and delivery to the end customers
+- Free and public IoT Cloud platform: The Things Network (ctranoris)
 
 - [Meetup #2] Docker 101 - Dimitris Karakasilis [Technical, Containerization]
 - [Meetup #2] Pros and cons of remote working/Tools/Processes/Best practices - Marios Karagiannopoulos [Professional guidance, Remote working]
