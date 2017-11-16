@@ -1,5 +1,6 @@
 ## Presentation topics (to choose from)
 
+- News & Social Media Monitoring with Data Mining Techniques - the palopro.io example (nikos.t)
 - Remote job hunting guidelines (Dimitris)
 - How to speedup a backend implementation with Spring Roo in less than 10 minutes (Marios)
 - Blockchain: What is blockchain? How is it structured? How it is used in bitcoin mining? A blockchain in 200 lines of code [demo: https://github.com/lhartikk/naivechain](Marios)
