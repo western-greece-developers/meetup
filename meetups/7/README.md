@@ -34,7 +34,9 @@
 - Working with a pet project - From the architecture to the real implementation and delivery to the end customers
 - Free and public IoT Cloud platform: The Things Network (ctranoris)
 
-================ Meetups History ================ 
+--
+**Meetups History**
+
 - [Meetup #1] Dimitris Karakasilis, Introduction, Getting know each other, discussion with the future of this community
 - [Meetup #2] Docker 101 - Dimitris Karakasilis [Technical, Containerization]
 - [Meetup #2] Pros and cons of remote working/Tools/Processes/Best practices - Marios Karagiannopoulos [Professional guidance, Remote working]
@@ -47,4 +49,3 @@
 - [Meetup #5] Game development - Theodoros Ntakouris - zarkopafilis.
 - [Meetup #6] Blockchain & Cryptocurrencies - Marios Karagiannopoulos - mariosk.
 - [Meetup #6] News & Social Media Monitoring with Data Mining Techniques - the palopro.io example - nikos.t
-================================================ 
