@@ -33,6 +33,7 @@
 - Interview walkthrough. Prepare for the precooked interviews out there.
 - Working with a pet project - From the architecture to the real implementation and delivery to the end customers
 - Free and public IoT Cloud platform: The Things Network (ctranoris)
+- SmartPie - Home Automation For Hackers (Dimitris Karakasilis) (Project presentation and call for contributors, pet project candidate)
 
 --
 **Meetups History**
