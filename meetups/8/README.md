@@ -47,7 +47,5 @@
 - [Meetup #4] Android Best Practices - Theodoros Dakouris - zarkopafilis.
 - [Meetup #5] Code Quality - Yannis Kanellopoulos.
 - [Meetup #5] Game development - Theodoros Ntakouris - zarkopafilis.
-- [Meetup #5] Code Quality - Yannis Kanellopoulos.
-- [Meetup #5] Game development - Theodoros Ntakouris - zarkopafilis.
 - [Meetup #6] Blockchain & Cryptocurrencies - Marios Karagiannopoulos - mariosk.
 - [Meetup #6] News & Social Media Monitoring with Data Mining Techniques - the palopro.io example - nikos.t
