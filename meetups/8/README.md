@@ -1,3 +1,13 @@
+# Meetup #8
+
+When: Saturday 24th February 2018, 11:00 - 13:00
+Where: POS coworking space - Patras
+
+## Schedule
+
+11:00 - 12:00: [TBD]
+12:00 - 13:00: Cryptocurrencies without Blockchain (Aris Tomaras)
+
 ## Presentation topics (to choose from)
 
 - Remote job hunting guidelines (Dimitris)
@@ -8,15 +18,13 @@
   Me and others (many as I understood from the meeting) that had the experience of a failed start-up can present the problem faced and the pitfalls faced during this period
 - Software product management (PantelisT)
   Again this presentation I was thinking to be done not just from me but I am interested to hear which practices have worked best to other teams and which don't. 
-- Medical IT (PantelisT)
-  Being quite a few years in medical software industry I can prepare a small presentation regarding problem faced (e.g. CE and FDA regarding what your software is characterized and the tendencies of the industry regarding software needs)
 - Parallel and concurrent programming in Python: An introduction to `concurrent.futures` module (ChristosA)  
 - Git for everyday work
   Git introduction, tips and tricks, best practices
 - TDD 101 and applications in Drupal/Wordpress/whatever
   Test Driven Development introduction, some common applications and some less
   common.
-  Setting up a development environment with one command using docker containers
+- Setting up a development environment with one command using docker containers
 - Software deployment with containers (prod env) (Needs more preparation time)
   Deploying software to production using docker containers
 - Docker image automation with OBS
@@ -33,7 +41,6 @@
 - Interview walkthrough. Prepare for the precooked interviews out there.
 - Working with a pet project - From the architecture to the real implementation and delivery to the end customers
 - Free and public IoT Cloud platform: The Things Network (ctranoris)
-- SmartPie - Home Automation For Hackers (Dimitris Karakasilis) (Project presentation and call for contributors, pet project candidate)
 - Introduction to Real Time Operating Systems (RTOSs - Zephyr)
 
 --
@@ -49,3 +56,5 @@
 - [Meetup #5] Game development - Theodoros Ntakouris - zarkopafilis.
 - [Meetup #6] Blockchain & Cryptocurrencies - Marios Karagiannopoulos - mariosk.
 - [Meetup #6] News & Social Media Monitoring with Data Mining Techniques - the palopro.io example - nikos.t
+- [Meetup #7] SmartPie - Home Automation For Hackers (Dimitris Karakasilis) (Project presentation and call for contributors, pet project candidate)
+- [Meetup #7] Medical IT (PantelisT) Being quite a few years in medical software industry I can prepare a small presentation regarding problem faced (e.g. CE and FDA regarding what your software is characterized and the tendencies of the industry regarding software needs)
