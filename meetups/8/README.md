@@ -42,8 +42,10 @@ Where: POS coworking space - Patras
 - Working with a pet project - From the architecture to the real implementation and delivery to the end customers
 - Free and public IoT Cloud platform: The Things Network (ctranoris)
 - Introduction to Real Time Operating Systems (RTOSs - Zephyr)
+- Minicash (A cryptocurrency without blockchain). Introduction and test drive (workshop). You should bring with you your laptop. Minicash runs on **linux** with **python 3.5 or 3.6**. 
+    - Prerequisites: Basic knowledge on what is asymmetric cryptography, cryptocurrency consesus and proof of work. Very basic linux command line skills.
 
---
+
 **Meetups History**
 
 - [Meetup #1] Dimitris Karakasilis, Introduction, Getting know each other, discussion with the future of this community
