@@ -5,9 +5,6 @@ Where: POS coworking space - Patras
 
 ## Schedule
 
-- 11:00 - 12:00:
-  [TBD]
-
 - 12:00 - 13:00:
 
   Minicash (A cryptocurrency without blockchain).
