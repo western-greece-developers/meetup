@@ -1,6 +1,7 @@
 ## Presentation topics (to choose from)
 
 - A not so gentle introduction to Machine Learning in Python using scikit-learn (chkoar/pychristos)
+- A short introduction to functional programming in Python (chkoar/pychristos)
 - Remote job hunting guidelines (Dimitris)
 - How to speedup a backend implementation with Spring Roo in less than 10 minutes (MariosK)
 - Serverless/IPFS: What is Serverless? Couple of Examples. Inter Planetary File System [case study]. (MariosK)
