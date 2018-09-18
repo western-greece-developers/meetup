@@ -36,6 +36,25 @@
 - Introduction to Real Time Operating Systems (RTOSs - Zephyr)
   - Prerequisites: Basic knowledge on what is asymmetric cryptography, cryptocurrency consesus and proof of work. Very basic linux command line skills.
 
+## Workshop ideas
+
+- Startup in fast forward
+  We build a project from scratch working in an agile way but in a 10x speed. We start with a quick planning meeting (10 mins max) and we distribute tasks to pairs. We work for 1 - 2 hours and then we integrate the work in another 30 minutes.
+
+  Purpose: Work on our pair programming skills and build a useful app.
+
+- Issue killing spree
+  We pick an open source project (or multiple) and work in pairs. We try to solve as many issues as possible (e.g. GitHub issues) in 2 hours. In the end we present our achievements.
+
+  Purpose: Work on our pair programming skills, learn from other people's code, contribute to upstream open source projects.
+
+- Community friendly development
+  We split in pairs and we randomly distribute projects (from a pool of easy to grasp project ideas). Each pair works on the project for 30 minutes and then the projects rotate. Each pair should make sure they hand over all the needed information to the next pair with minimum physical interaction needed.
+
+  Purpose: Work on our pair programming skills and learn to work in a community friendly way (with READMEs, public issues etc).
+
+- Coderetreat: https://www.coderetreat.org/pages/facilitating/structure-of-a-coderetreat/
+
 **Meetups History**
 
 - [Meetup #1] Dimitris Karakasilis, Introduction, Getting know each other, discussion with the future of this community
