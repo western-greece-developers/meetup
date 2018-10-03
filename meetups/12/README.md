@@ -35,6 +35,7 @@
 - Free and public IoT Cloud platform: The Things Network (ctranoris)
 - Introduction to Real Time Operating Systems (RTOSs - Zephyr)
   - Prerequisites: Basic knowledge on what is asymmetric cryptography, cryptocurrency consesus and proof of work. Very basic linux command line skills.
+  - ASP.Net Core 2 with (Azure) CosmosDB : Overview & Demo
 
 ## Workshop ideas
 
@@ -54,6 +55,9 @@
   Purpose: Work on our pair programming skills and learn to work in a community friendly way (with READMEs, public issues etc).
 
 - Coderetreat: https://www.coderetreat.org/pages/facilitating/structure-of-a-coderetreat/
+
+- ASP.Net Core 2 Simple CRUD Web App
+  In teams or solo, create a **asynchronous** web api in a language (C#) that is probably new to many people.
 
 **Meetups History**
 
