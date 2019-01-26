@@ -73,4 +73,11 @@
 - [Meetup #6] News & Social Media Monitoring with Data Mining Techniques - the palopro.io example - nikos.t
 - [Meetup #7] SmartPie - Home Automation For Hackers (Dimitris Karakasilis) (Project presentation and call for contributors, pet project candidate)
 - [Meetup #7] Medical IT (PantelisT) Being quite a few years in medical software industry I can prepare a small presentation regarding problem faced (e.g. CE and FDA regarding what your software is characterized and the tendencies of the industry regarding software needs)
-- [Meetup #8] Minicash (A cryptocurrency without blockchain). Introduction and test drive (workshop).
+- [Meetup #8] Minicash (A cryptocurrency without blockchain). Introduction and test drive (workshop). (arist)
+- [Meetup #9] Introduction to CloudFoundry - Dimitris Karakasilis
+- [Meetup #9] How to kill a startup (and other stories) - Pantelis Theocharakis
+- [Meetup #10] Pair programming game - score4 - Dimitris Karakasilis
+- [Meetup #11] Machine learning with Python and scikit-learn (Workshop) - Christos Aridas
+- [Meetup #12] .Net Core 2 Workshop - Create a REST API with .NET and CosmosDB (Theodoros Ntakouris)
+- [Meetup #13] Kubernetes Workshop Part 1 - Marios Karagiannopoulos, Dimitris Karakasilis
+- [Meetup #13] Kubernetes Workshop Part 2 - Konstantinos Tsakalozos
