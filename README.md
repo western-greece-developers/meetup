@@ -17,6 +17,6 @@ If possible use the pdf format for consistency.
 ## Presentation Proposals
 
 Do you want to present something on the upcoming meetup? Please open a Pull Request
-which updates the `PROPOSALS.MD` file or preferably open an [issue](https://github.com/western-greece-developers/meetup/issues/new).
+which updates the `proposals.md` file or preferably open an [issue](https://github.com/western-greece-developers/meetup/issues/new).
 
 This way people can comment, ask questions and upvote your presentation.
