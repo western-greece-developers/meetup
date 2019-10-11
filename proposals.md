@@ -1,7 +1,7 @@
 ## Presentation topics (to choose from)
 
-- A quick introduction of Python 3.7 data classes (chkoar/pychristos)
-- A short introduction to functional programming in Python (chkoar/pychristos)
+- A quick introduction of Python 3.7 data classes (@chkoar)
+- A short introduction to functional programming in Python (@chkoar)
 - Remote job hunting guidelines (Dimitris)
 - How to speedup a backend implementation with Spring Roo in less than 10 minutes (MariosK)
 - Serverless/IPFS: What is Serverless? Couple of Examples. Inter Planetary File System [case study]. (MariosK)
@@ -10,7 +10,7 @@
   Me and others (many as I understood from the meeting) that had the experience of a failed start-up can present the problem faced and the pitfalls faced during this period
 - Software product management (PantelisT)
   Again this presentation I was thinking to be done not just from me but I am interested to hear which practices have worked best to other teams and which don't. 
-- Parallel and concurrent programming in Python: An introduction to `concurrent.futures` module (ChristosA)  
+- Parallel and concurrent programming in Python: An introduction to `concurrent.futures` module (@chkoar)  
 - Git for everyday work
   Git introduction, tips and tricks, best practices
 - TDD 101 and applications in Drupal/Wordpress/whatever
@@ -58,26 +58,3 @@
 
 - ASP.Net Core 2 Simple CRUD Web App
   In teams or solo, create a **asynchronous** web api in a language (C#) that is probably new to many people. (@zarkopafilis)
-
-**Meetups History**
-
-- [Meetup #1] Dimitris Karakasilis, Introduction, Getting know each other, discussion with the future of this community
-- [Meetup #2] Docker 101 - Dimitris Karakasilis [Technical, Containerization]
-- [Meetup #2] Pros and cons of remote working/Tools/Processes/Best practices - Marios Karagiannopoulos [Professional guidance, Remote working]
-- [Meetup #3] Software development with containers (dev env) - Workshop - Dimitris Karakasilis
-- [Meetup #4] HTTP request lifecycle, from user to the server and back - Marios Karagiannopoulos
-- [Meetup #4] Android Best Practices - Theodoros Dakouris - zarkopafilis.
-- [Meetup #5] Code Quality - Yannis Kanellopoulos.
-- [Meetup #5] Game development - Theodoros Ntakouris - zarkopafilis.
-- [Meetup #6] Blockchain & Cryptocurrencies - Marios Karagiannopoulos - mariosk.
-- [Meetup #6] News & Social Media Monitoring with Data Mining Techniques - the palopro.io example - nikos.t
-- [Meetup #7] SmartPie - Home Automation For Hackers (Dimitris Karakasilis) (Project presentation and call for contributors, pet project candidate)
-- [Meetup #7] Medical IT (PantelisT) Being quite a few years in medical software industry I can prepare a small presentation regarding problem faced (e.g. CE and FDA regarding what your software is characterized and the tendencies of the industry regarding software needs)
-- [Meetup #8] Minicash (A cryptocurrency without blockchain). Introduction and test drive (workshop). (arist)
-- [Meetup #9] Introduction to CloudFoundry - Dimitris Karakasilis
-- [Meetup #9] How to kill a startup (and other stories) - Pantelis Theocharakis
-- [Meetup #10] Pair programming game - score4 - Dimitris Karakasilis
-- [Meetup #11] Machine learning with Python and scikit-learn (Workshop) - Christos Aridas
-- [Meetup #12] .Net Core 2 Workshop - Create a REST API with .NET and CosmosDB (Theodoros Ntakouris)
-- [Meetup #13] Kubernetes Workshop Part 1 - Marios Karagiannopoulos, Dimitris Karakasilis
-- [Meetup #13] Kubernetes Workshop Part 2 - Konstantinos Tsakalozos
