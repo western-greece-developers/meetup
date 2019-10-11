@@ -1,7 +1,7 @@
 # Western Greece Developers Meetup
 
-This repository is used to help us organize the events, collect ideas and discuss issues in a very familiar way.
-We also use Slack for communication. Get your invitation from [here](https://wgsdg.herokuapp.com/)
+This repository is used to help us organize the events, collect ideas and discuss issues in a very familiar way.  
+We also use Slack for communication. Get your invitation from [here](https://wgsdg.herokuapp.com/).  
 You can also find us on Facebook via [this](https://www.facebook.com/wgsdev/) page.
 
 ## Presentations
