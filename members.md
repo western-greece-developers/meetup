@@ -1,7 +1,7 @@
 # Meetup Members List
 
 |Name|Meetup Role|Topics Presentations|
-|---|---|---|---|
+|---|---|---|
 |[Dimitris Karakasilis](https://dimitris.karakasilis.me)|Organizer|[Introduction Meetup](https://github.com/western-greece-developers/meetup/tree/master/meetups/001), [Dockers 101] (https://github.com/western-greece-developers/meetup/tree/master/meetups/002), [Dockers Workshop] (https://github.com/western-greece-developers/meetup/tree/master/meetups/003), [Home automation](https://github.com/western-greece-developers/meetup/tree/master/meetups/007),[Introduction to CloudFoundry](https://github.com/western-greece-developers/meetup/tree/master/meetups/009),[Pair programming game](https://github.com/western-greece-developers/meetup/tree/master/meetups/010)|
 |[Marios Karagiannopoulos](https://mariosk.wordpress.com)|Organizer|[Remote Working] (https://github.com/western-greece-developers/meetup/tree/master/meetups/002), [Dockers Workshop] (https://github.com/western-greece-developers/meetup/tree/master/meetups/003), [HTTP Request Lifecycle](https://github.com/western-greece-developers/meetup/tree/master/meetups/004), [Blockchain & Cryptocurrencies](https://github.com/western-greece-developers/meetup/tree/master/meetups/006), [Pair programming game](https://github.com/western-greece-developers/meetup/tree/master/meetups/010), [Kubernetes Workshop 101](https://github.com/western-greece-developers/meetup/tree/master/meetups/013)|
 |[Christos Aridas](https://www.linkedin.com/in/christos-aridas)|Organizer|[Remote Working] (https://github.com/western-greece-developers/meetup/tree/master/meetups/002)|
