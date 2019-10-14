@@ -23,6 +23,6 @@ This way people can comment, ask questions and upvote your presentation.
 
 ## Members Page
 
-Would you like to add your personal info in our [members list](https://github.com/western-greece-developers/meetup/members.md)? Please open a Pull Request which updates the `members.md`.
+Would you like to add your personal info in our [members list](https://github.com/western-greece-developers/meetup/blob/master/members.md)? Please open a Pull Request which updates the `members.md`.
 
 You may also join our [google group](https://groups.google.com/forum/#!forum/western-greece-software-developers).
