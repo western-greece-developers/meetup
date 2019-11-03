@@ -14,4 +14,6 @@
 |[Kostas Tsakalozos](https://ubuntu.com/blog/author/kos-tsakalozos)|Member|[K8s Networking](https://github.com/western-greece-developers/meetup/tree/master/meetups/013)|
 |[Stamatis Panorgios](https://stamatisp.wordpress.com)|Member|[Kubernetes in Production](https://github.com/western-greece-developers/meetup/tree/master/meetups/014)|
 |[Damianos Damianidis](https://gr.linkedin.com/in/damianos-damianidis-491bb557)|Member|[Kubernetes in Production](https://github.com/western-greece-developers/meetup/tree/master/meetups/014)|
+|[Apostolos Stamatis](https://gr.linkedin.com/in/apostolos-stamatis-29596163)|Member|[Clean Code Principles](https://github.com/western-greece-developers/meetup/tree/master/meetups/015)|
+|[Eleftheria Marinou](https://gr.linkedin.com/in/eleftheria-areti-marinou-366094166)|Member|[Augmented Reality](https://github.com/western-greece-developers/meetup/tree/master/meetups/015)|
 
