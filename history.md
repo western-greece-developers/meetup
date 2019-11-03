@@ -20,5 +20,6 @@
 - [Meetup #12] .Net Core 2 Workshop - Create a REST API with .NET and CosmosDB (Theodoros Ntakouris)
 - [Meetup #13] Kubernetes Workshop Part 1 - Marios Karagiannopoulos, Dimitris Karakasilis
 - [Meetup #13] Kubernetes Workshop Part 2 - Konstantinos Tsakalozos
-- [Meetup #14] Clean Code Principles - Apostolos Stamatis
-- [Meetup #14] Augmented Reality - Eleftheria Marinou
+- [Meetup #14] Kubernetes in production - Damianos Damianidis, Stamatis Panorgios
+- [Meetup #15] Clean Code Principles - Apostolos Stamatis
+- [Meetup #15] Augmented Reality - Eleftheria Marinou
