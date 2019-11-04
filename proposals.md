@@ -2,10 +2,9 @@
 
 - A quick introduction of Python 3.7 data classes (@chkoar)
 - A short introduction to functional programming in Python (@chkoar)
-- Remote job hunting guidelines (Dimitris)
+- Remote job hunting guidelines (ddalianis)
 - How to speedup a backend implementation with Spring Roo in less than 10 minutes (MariosK)
 - Serverless/IPFS: What is Serverless? Couple of Examples. Inter Planetary File System [case study]. (MariosK)
-- Clean code principles: What Is Clean Code? How can I write clean and maitainable code? (MariosK)
 - How to destroy a startup (PantelisT)
   Me and others (many as I understood from the meeting) that had the experience of a failed start-up can present the problem faced and the pitfalls faced during this period
 - Software product management (PantelisT)
@@ -16,13 +15,9 @@
 - TDD 101 and applications in Drupal/Wordpress/whatever
   Test Driven Development introduction, some common applications and some less
   common.
-- Setting up a development environment with one command using docker containers
-- Software deployment with containers (prod env) (Needs more preparation time)
-  Deploying software to production using docker containers
 - Docker image automation with OBS
   Keeping your docker images up to date using the Open Build Service
 - Using salt-cloud to spawn workers for your application [Workshop]
-- Pair programming and how to make the most of it. [Presentation + Workshop]
 - Vim vs other editors
   How to replace your IDE with Vim and why
 - Static site generators [Workshop]
@@ -35,8 +30,7 @@
 - Free and public IoT Cloud platform: The Things Network (ctranoris)
 - Introduction to Real Time Operating Systems (RTOSs - Zephyr)
   - Prerequisites: Basic knowledge on what is asymmetric cryptography, cryptocurrency consesus and proof of work. Very basic linux command line skills.
-  - ASP.Net Core 2 with (Azure) CosmosDB : Overview & Demo (@zarkopafilis)
-
+  
 ## Workshop ideas
 
 - Startup in fast forward
