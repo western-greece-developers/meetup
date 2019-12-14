@@ -12,8 +12,9 @@
 |[Pantelis Theocharakis](https://gr.linkedin.com/in/pantelistheocharakis)|Member|[Digital Imaging and COmmunications in Medicine (Introduction to DICOM)](https://github.com/western-greece-developers/meetup/tree/master/meetups/007), [How to kill a startup (and other stories)](https://github.com/western-greece-developers/meetup/tree/master/meetups/009)|
 |[Aris Tomaras](https://www.linkedin.com/in/aristeidistomaras)|Member|[Minicash (A cryptocurrency without blockchain)](https://github.com/western-greece-developers/meetup/tree/master/meetups/008)|
 |[Kostas Tsakalozos](https://ubuntu.com/blog/author/kos-tsakalozos)|Member|[K8s Networking](https://github.com/western-greece-developers/meetup/tree/master/meetups/013)|
-|[Stamatis Panorgios](https://stamatisp.wordpress.com)|Member|[Kubernetes in Production](https://github.com/western-greece-developers/meetup/tree/master/meetups/014)|
+|[Stamatis Panorgios](https://stamatisp.wordpress.com)|Member|[Kubernetes in Production](https://github.com/western-greece-developers/meetup/tree/master/meetups/014), [Install Kubernetes in AWS through Terraform & Ansible](https://github.com/western-greece-developers/meetup/tree/master/meetups/016)|
 |[Damianos Damianidis](https://gr.linkedin.com/in/damianos-damianidis-491bb557)|Member|[Kubernetes in Production](https://github.com/western-greece-developers/meetup/tree/master/meetups/014)|
 |[Apostolos Stamatis](https://gr.linkedin.com/in/apostolos-stamatis-29596163)|Member|[Clean Code Principles](https://github.com/western-greece-developers/meetup/tree/master/meetups/015)|
 |[Eleftheria Marinou](https://gr.linkedin.com/in/eleftheria-areti-marinou-366094166)|Member|[Augmented Reality](https://github.com/western-greece-developers/meetup/tree/master/meetups/015)|
+|[Vasilis Dourdounis](https://gr.linkedin.com/in/dourdoun)|Member|[Getting Started with Serveless](https://github.com/western-greece-developers/meetup/tree/master/meetups/016)|
 
