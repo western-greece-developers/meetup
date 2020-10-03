@@ -10,3 +10,7 @@ Where: Online (GTM)
 ## Talks
 
 - Machine Learning Pipelines by Thodoros Ntakouris, AI Engineer, http://ntakour.is/
+
+## Source Code
+
+Clone ntakouris/tfx-pipelines-playground at https://github.com/ntakouris/tfx-pipelines-playground .
