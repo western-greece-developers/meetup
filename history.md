@@ -23,3 +23,6 @@
 - [Meetup #14] Kubernetes in production - Damianos Damianidis, Stamatis Panorgios
 - [Meetup #15] Clean Code Principles - Apostolos Stamatis
 - [Meetup #15] Augmented Reality - Eleftheria Marinou
+- [Meetup #16] Getting Started with Serverless by Vasillis Dourdounis, CTO, Exit Intelligence, Patras Branch
+- [Meetup #16] Install Kubernetes through Terraform & Ansible by Stamatis Panorgios, DevOps Engineer, ZuluTrade Technologies, Remote
+- [Meetup #17] Machine Learning Pipelines by Thodoros Ntakouris, AI Engineer, http://ntakour.is/
