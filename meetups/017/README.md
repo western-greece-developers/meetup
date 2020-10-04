@@ -14,3 +14,7 @@ Where: Online (GTM)
 ## Source Code
 
 Clone ntakouris/tfx-pipelines-playground at https://github.com/ntakouris/tfx-pipelines-playground .
+
+## Recording
+
+At YouTube: https://www.youtube.com/watch?v=4FHu7VmwlG8&feature=youtu.be
